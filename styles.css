@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+.banr {
+    text-align: center;
+    align-items: center;
+    font-family: sans-serif;
+}
